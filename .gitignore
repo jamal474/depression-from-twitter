@@ -3,3 +3,5 @@ analysis/out/neg_topics.parquet
 __pycache__/
 *.pyc
 .DS_Store
+INFERENCES.md
+INFERENCES.md
