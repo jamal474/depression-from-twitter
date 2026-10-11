@@ -1,0 +1,11 @@
+label,tweets,really that country %,actually US %,most common location strings
+USA,8832,72.0,72.0,"chicago; Washington, DC; Atlanta, GA"
+Canada,2060,42.0,3.0,"London, England; London; Toronto, Ontario"
+UK,1239,57.0,20.0,"Boston, MA; Edinburgh, Scotland; Liverpool, England"
+Japan,1741,6.0,64.0,"USA; Texas, USA; Massachusetts, USA"
+Australia,850,91.0,1.0,"Australia; Western Australia; Melbourne, Victoria"
+India,2430,89.0,1.0,"India; New Delhi, India; Mumbai, India"
+Nigeria,1188,93.0,0.0,"Lagos, Nigeria; Nigeria; Abuja, Nigeria"
+Puerto Rico,486,0.0,90.0,"Florida, USA; North Carolina, USA; Florida"
+Philippines,473,45.0,17.0,"Republic of the Philippines; Philippines; Barcelona, España"
+Mali,357,2.0,87.0,"San Diego, CA; San Francisco, CA; San Antonio, TX"

@@ -1,0 +1,55 @@
+{
+  "n_unique": 149117,
+  "n_neg_dedup": 82415,
+  "artifact_country_corr": 0.8530072460589011,
+  "artifact_hour_corr": 0.9250754929538118,
+  "artifact_model_vs_vader_agreement": 0.8691493691493691,
+  "artifact_rate_neg_src": 0.7537976497563772,
+  "artifact_rate_pos_src": 0.15803797859837942,
+  "group_rates_within_neg_keywords": {
+    "developed": {
+      "n": 21349,
+      "rate": 0.6634122349903773,
+      "ci": [
+        0.65403287769736,
+        0.6717345977646457
+      ],
+      "first_person": 0.4431527693111601
+    },
+    "developing": {
+      "n": 7156,
+      "rate": 0.6726004081145724,
+      "ci": [
+        0.6603753222817023,
+        0.689386956735618
+      ],
+      "first_person": 0.3291979280018456
+    }
+  },
+  "logit_developed_OR": 0.9937622954759116,
+  "logit_developed_OR_CI": [
+    0.9065884951996404,
+    1.0893183678578238
+  ],
+  "logit_developed_p": 0.8937341209486107,
+  "n_full_local": 26576,
+  "self_disclosure_overall_neg": 0.015506885882424316,
+  "self_disclosure_overall_pos": 0.0003839796991602531,
+  "neg_rate_given_disclosure": 0.7785602503912363,
+  "neg_rate_given_no_disclosure": 0.6798994293602179,
+  "disclosure_examples": [
+    "second of all, finished my wishlist for txt stuff (because i realized consumerism heals my depression /j), i did 7 gyu pcs and 7 kai pcs and the beomkai pcs and",
+    "Me when I drink milkshake to try and cure my depression and instead end up with depression AND a tummy ache",
+    "in my blank2y depression era",
+    "Bestie ik how to hide my depression well\ud83d\ude48\ud83d\ude2d\ud83d\ude39\ud83d\ude39",
+    "at my depression era",
+    "More than likely my depression partnered with a side of despair.",
+    "Bonvoyage is THAT song. My skin is clear. My crops are flourishing. My depression is gone. I have hope again READY SET BONVOYAGE #BONVOYAGE #EndOfApocalypse #Dr",
+    "All my totes came and I had an anxiety attack because too much inventory lol"
+  ],
+  "share_with_mh_awareness_tag": 0.003737183765091306,
+  "share_replies_neg": 0.4471152096099011,
+  "dup_text_share": 0.04386488462080112,
+  "geocoded_share": 0.35345399920867504,
+  "n_with_local_time": 49322
+}

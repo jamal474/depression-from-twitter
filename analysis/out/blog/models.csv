@@ -1,0 +1,8 @@
+model,accuracy %
+Always guess the commoner label,54.0
+Which keyword list it came from (no text),74.9
+Naive Bayes,80.3
+Random forest,85.1
+Linear SVC,86.7
+Logistic regression,87.3
+"Best ensemble, chosen on validation",87.3

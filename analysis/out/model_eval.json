@@ -1,0 +1,75 @@
+{
+  "n": 149117,
+  "label_rate": 0.46293179181448124,
+  "share_exact_zero": 0.04294614296156709,
+  "random_split_svc_acc": 0.8794930257510729,
+  "random_split_svc_f1": 0.8711827956989248,
+  "random_split_test_text_seen_in_train": 0.05381571888412017,
+  "random_split_test_users_seen_in_train": 0.26388143776824036,
+  "clean_split_svc_acc": 0.867567945224621,
+  "clean_split_svc_acc_ci": [
+    0.8634440718228185,
+    0.8717948717948718
+  ],
+  "baseline_majority": 0.5395444700621812,
+  "baseline_src_only": 0.7494585341996786,
+  "label_rate_by_src": {
+    "both": 0.41603053435114506,
+    "neg": 0.6814293514530122,
+    "pos": 0.1552279670779145
+  },
+  "label_rate_by_keyword": {
+    "anguish": 0.794,
+    "anxiety": 0.643,
+    "depression": 0.74,
+    "despair": 0.643,
+    "excitement": 0.104,
+    "gratitude": 0.058,
+    "grief": 0.704,
+    "happiness": 0.034,
+    "helplessness": 0.79,
+    "hope": 0.127,
+    "inspiration": 0.131,
+    "isolation": 0.676,
+    "joy": 0.126,
+    "loneliness": 0.682,
+    "love": 0.066,
+    "motivation": 0.201,
+    "optimism": 0.095,
+    "sadness": 0.689,
+    "stress": 0.589,
+    "success": 0.066,
+    "unmatched": 0.563
+  },
+  "label_flip_rate_when_keyword_masked": 0.2046978453596678,
+  "label_rate_masked_by_src": {
+    "both": 0.4618320610687023,
+    "neg": 0.56420554510708,
+    "pos": 0.39436384580710865
+  },
+  "single_models_test_acc": {
+    "NaiveBayes": 0.802731782295815,
+    "LogReg": 0.8733319360022357,
+    "LinearSVC": 0.8666946132886187,
+    "RandomForest": 0.8514637043247397
+  },
+  "ensemble": {
+    "best_subset_chosen_on_validation": [
+      "LogReg",
+      "LinearSVC",
+      "RandomForest"
+    ],
+    "its_test_acc": 0.8733319360022357,
+    "best_subset_chosen_on_test (leaky)": [
+      "LogReg"
+    ],
+    "its_test_acc (optimistic)": 0.8733319360022357,
+    "test_acc_range_over_all_subsets": [
+      0.802731782295815,
+      0.8733319360022357
+    ],
+    "best_single_test_acc": 0.8733319360022357,
+    "test_ci_halfwidth": 0.003774103961433628
+  },
+  "top100_unigrams_in_vader_lexicon": 1.0
+}

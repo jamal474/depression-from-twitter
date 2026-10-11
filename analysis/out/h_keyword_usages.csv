@@ -1,0 +1,17 @@
+keyword,usage,n_keyword_tweets,share,vader_depressive_rate_of_these
+grief,"idiom ""good grief""",8427,0.3109054230449745,0.6965648854961832
+anguish,customer-service template,8513,0.04181839539527781,0.5955056179775281
+depression,Great Depression / economy,7283,0.14787862144720582,0.3686165273909007
+depression,"""depression nap/meal/era"" meme",7283,0.010435260194974599,0.8552631578947368
+isolation,"basketball ""isolation"" play",8011,0.014105604793409063,0.5221238938053098
+isolation,social isolation (public health),8011,0.03420297091499189,0.6970802919708029
+loneliness,Surgeon General / epidemic framing,8324,0.02727054300816915,0.748898678414097
+stress,"""stress test"" (finance/engineering)",8668,0.011305952930318412,0.7040816326530612
+anxiety,"casual (""gives me anxiety"")",9243,0.029103105052472142,0.6245353159851301
+hope,"well-wishing (""I hope / hope you"")",8740,0.6835240274599542,0.1206896551724138
+love,"reaction (""love this / love it"")",10793,0.21921615862132865,0.04649196956889264
+motivation,self-help / promo,7855,0.20992998090388287,0.09035779260157671
+(neg set),no keyword in text at all,82415,0.0987684280774131,0.5916461916461917
+(neg set),...of which keyword is in the username,8140,0.3305896805896806,
+(pos set),no keyword in text at all,59899,0.11162122906893271,0.5282680227340711
+(pos set),...of which keyword is in the username,6686,0.5435237810349985,

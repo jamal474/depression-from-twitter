@@ -1,0 +1,10 @@
+country,Negative tone,Written in the first person,tone 95% low,tone 95% high,first person 95% low,first person 95% high,tweets,group
+USA,67.6,45.6,66.6,68.6,44.7,46.6,13784,developed
+Canada,66.6,43.3,63.5,69.2,39.9,46.8,1431,developed
+UK,61.3,41.5,59.7,63.7,39.9,43.7,3995,developed
+Australia,64.8,41.0,61.5,69.2,37.4,45.6,879,developed
+South Africa,67.5,40.3,62.0,76.6,34.3,45.3,599,developing
+Nigeria,64.2,34.9,58.8,71.6,29.8,42.4,893,developing
+Pakistan,66.6,29.7,62.1,72.8,23.9,34.3,413,developing
+India,64.5,23.5,62.1,67.6,21.0,27.5,1930,developing
+Kenya,66.1,21.6,61.2,71.8,17.3,28.7,275,developing

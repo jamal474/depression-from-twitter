@@ -1,0 +1,5 @@
+analysis/out/corpus.parquet
+analysis/out/neg_topics.parquet
+__pycache__/
+*.pyc
+.DS_Store
