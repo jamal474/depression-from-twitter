@@ -2,8 +2,6 @@
 
 About 150,000 English tweets scraped in May 2023 with ten "negative" keywords (sadness, loneliness, despair, anguish, grief, anxiety, stress, depression, isolation, helplessness) and ten "positive" ones (happiness, joy, love, gratitude, hope, success, motivation, inspiration, excitement, optimism).
 
-The project started as a student paper comparing "depression" between developed and developing countries. A 2026 re-analysis found that those results came from how the data was collected and labelled. What the data does show is how people use the language of distress online. **Read [`INFERENCES.md`](INFERENCES.md) for the full write-up.**
-
 ## Layout
 
 ```
@@ -12,8 +10,7 @@ data/
   pos_rawdata.csv     raw scrape, positive keywords (22–24 May 2023)
   worldcities.csv     SimpleMaps World Cities (basic), used for geocoding
 analysis/             rebuilt pipeline: corpus, model evaluation, analyses
-  out/                result tables and JSON summaries quoted in INFERENCES.md
-INFERENCES.md         findings, audit of the original method, next steps
+  out/                result tables and JSON summaries
 ```
 
 ## Reproduce
